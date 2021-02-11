@@ -12,5 +12,5 @@ Js로 그림판 만들기
 
 
 ## Try-it! 
-https://baegarden.github.io/JsProject-2/
+https://baegarden.github.io/JsProject-2/.
 

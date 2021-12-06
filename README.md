@@ -1,5 +1,5 @@
 # JsProject-2
-🎨<strong>Js로 그림판 만들기</strong><br><br><br>
+🎨 <strong>Js로 그림판 만들기</strong><br><br><br>
 
 > ### 기능 
 * Paint(size control)
